@@ -46,6 +46,6 @@ Run site
 
 ## 📄 License
 
-### GNU Affero General Public License v3.0
+### licence 3.5
 
-[Read more](http://www.ponpino.it)
+[leggi qua](http://www.ponpino.com)
