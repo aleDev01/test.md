@@ -27,25 +27,25 @@ Run site
 
 | Command | Description                                 |
 | ------- | ------------------------------------------- |
-| /queue  | see the items in the queue if there are any |
+| .  | . |
 
 
 ### 👤 Sudo users
 
 | Command | Description                                                   |
 | ------- | ------------------------------------------------------------- |
-| /stream | stream the provided radio station if not streaming            |
-| /stop   | stop the radio stream if streaming                            |
-| /pause  | pause the audio stream if not playing                         |
-| /resume | resume the audio stream if not paused                         |
-| /skip   | skip the current audio stream if playing                      |
-| /clear  | clear the queue if not empty                                  |
-| /rmd    | delete the downloaded files if there are any                  |
-| /seekf  | seek the playback forward by the provided seconds if playing  |
-| /seekb  | seek the playback backward by the provided seconds if playing |
+| . 2 | . 2            |
+| . 3   | . 3                           |
+| . 4  | . 4                         |
+| . 5 | . 5                         |
+| skip lol  | lol                     |
+| del 77  | delete                                 |
+| mm   | lol & gg                 |
+| m9  | k4  |
+| ò  | # |
 
 ## 📄 License
 
 ### GNU Affero General Public License v3.0
 
-[Read more](http://www.gnu.org/licenses/#AGPL)
+[Read more](http://www.ponpino.it)
