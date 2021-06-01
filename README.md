@@ -1,23 +1,22 @@
-# 🎧 VoiceChatPyroBot — The first Telegram voice chat bot to be open-sourced
+# 1
 
-## 💭 Logic
+## 2
 
-The only thing VCPB does for you is automating the audio streaming process, it doesn’t directly play audio in group calls. So you have to forward the audio that VCPB plays to a Telegram call manually using Telegram desktop app on your PC or server with a desktop environment.
+test.md
 
-### 🛠 Config
+### config Main
 
-Pass CLI args when running or copy config/sample_config.py to config/config.py
+config.md
     
-### ✍️ Install the required packages
+### ✍️ installazione del pacchetto
 
-```shell
-sudo apt install mpv libmpv-dev pulseaudio &&
-pip3 install -U -r requirements.txt
+```None:
+sudo install htmlsite
 ```
-### ✨ Run the bot
+### ✨ Run del sito
 
-```shell
-python3 main.py  
+```
+Run site   
 ```
 
 ## ℹ️ Commands
